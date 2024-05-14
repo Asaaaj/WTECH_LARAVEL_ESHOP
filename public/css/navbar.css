@@ -1,0 +1,13 @@
+.logo {
+  font-size: 5rem;
+  letter-spacing: -1.5vh;
+  text-transform: uppercase;
+  padding: 0.1vh 5vh;
+  background-color: white;
+  text-decoration: none;
+  color: black;
+  transition: color 0.5s;
+}
+.logo:hover {
+  color: #adb5bd;
+}
